@@ -1598,7 +1598,7 @@ py-spy==0.3.14
     # via -r /ray/ci/../python/requirements.txt
 py4j==0.10.9.7
     # via pyspark
-pyarrow==14.0.2
+pyarrow==17.0.0
     # via
     #   -r /ray/ci/../python/requirements.txt
     #   datasets
